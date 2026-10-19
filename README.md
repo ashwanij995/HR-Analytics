@@ -29,10 +29,8 @@ This project analyzes employee data to understand workforce patterns and identif
 - Examined differences in attrition by overtime status.
 - Compared monthly income and years at the company by attrition status.
 
-*Replace these general findings with your verified results and numerical values.*
-
 ## Dashboard
-Add a screenshot of the completed Power BI dashboard here.
+<img width="783" height="537" alt="image" src="https://github.com/user-attachments/assets/a4ce8cc1-01cb-4d15-ada1-2000df1197a3" />
 
 ## Project Structure
 - `data/` — HR dataset
