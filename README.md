@@ -1,5 +1,3 @@
-# HR-Analytics
-Employee attrition analysis using Python, SQL, and Power BI
 # HR Analytics — Employee Attrition & Workforce Insights
 
 ## Project Overview
